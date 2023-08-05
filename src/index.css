@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:ital@1&family=Alegreya+Sans&family=Alegreya+Sans+SC&family=Alkatra&family=Josefin+Sans&family=Noto+Sans&family=Open+Sans&family=Poppins&family=Roboto+Mono&family=Ubuntu&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
